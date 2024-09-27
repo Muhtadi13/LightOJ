@@ -1,0 +1,1 @@
+{"name":"Local: janefrost","url":"c:\\zzz_code\\cp_code\\LOJ\\janefrost.cpp","tests":[{"id":1681473786084,"input":"2\n4 6\n##.#.#\n#J..F#\n#..F.#\n##...#\n3 3\n###\n#J.\n#.F","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\janefrost.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: divisiblegroupsum","url":"c:\\zzz_code\\cp_code\\LOJ\\divisiblegroupsum.cpp","tests":[{"id":1677735536900,"input":"2\n10 2\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n5 1\n5 2\n5 1\n2\n3\n4\n5\n6\n6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\divisiblegroupsum.cpp","group":"local","local":true}

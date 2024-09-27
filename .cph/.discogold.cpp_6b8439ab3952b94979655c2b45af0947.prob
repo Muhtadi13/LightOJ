@@ -1,0 +1,1 @@
+{"name":"Local: discogold","url":"c:\\zzz_code\\cp_code\\LOJ\\discogold.cpp","tests":[{"id":1678330152754,"input":"3\n\n1\n101\n\n2\n10 3\n\n7\n1 2 3 4 5 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\discogold.cpp","group":"local","local":true}

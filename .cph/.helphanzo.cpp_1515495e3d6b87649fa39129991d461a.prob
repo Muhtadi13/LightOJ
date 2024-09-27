@@ -1,0 +1,1 @@
+{"name":"Local: helphanzo","url":"c:\\zzz_code\\cp_code\\LOJ\\helphanzo.cpp","tests":[{"id":1683197186921,"input":"3\n100 120\n3 73\n3 11","output":""},{"id":1683199256307,"input":"2\n1999992000 2000000000\n1 80000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\helphanzo.cpp","group":"local","local":true}

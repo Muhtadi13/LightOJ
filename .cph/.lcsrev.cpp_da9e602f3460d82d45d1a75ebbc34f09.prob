@@ -1,0 +1,1 @@
+{"name":"Local: lcsrev","url":"c:\\zzz_code\\cp_code\\LOJ\\lcsrev.cpp","tests":[{"id":1687925957821,"input":"4\nacbd\nacbd\nvnvn\nvn\nab\nba\nxyz\nabc","output":""},{"id":1688027329885,"input":"1\naab\naba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\lcsrev.cpp","group":"local","local":true}

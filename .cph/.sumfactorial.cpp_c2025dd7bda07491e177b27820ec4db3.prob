@@ -1,0 +1,1 @@
+{"name":"Local: sumfactorial","url":"c:\\zzz_code\\cp_code\\LOJ\\sumfactorial.cpp","tests":[{"id":1680082921740,"input":"4\n7\n7\n9\n11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\sumfactorial.cpp","group":"local","local":true}

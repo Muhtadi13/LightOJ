@@ -1,0 +1,1 @@
+{"name":"Local: iftarparty","url":"c:\\zzz_code\\cp_code\\LOJ\\iftarparty.cpp","tests":[{"id":1682597708266,"input":"4\n10 0\n13 2\n300 98\n1000 997","output":"Case 1: 1 2 5 10\nCase 2: 11\nCase 3: 101 202\nCase 4: impossible"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\iftarparty.cpp","group":"local","local":true}

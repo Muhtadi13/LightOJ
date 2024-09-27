@@ -1,0 +1,1 @@
+{"name":"Local: posters","url":"c:\\zzz_code\\cp_code\\LOJ\\posters.cpp","tests":[{"id":1687177035747,"input":"1\n5\n1 4\n2 6\n8 10\n3 4\n7 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\posters.cpp","group":"local","local":true}

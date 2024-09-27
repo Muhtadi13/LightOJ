@@ -1,0 +1,1 @@
+{"name":"Local: painfulbase","url":"c:\\zzz_code\\cp_code\\LOJ\\painfulbase.cpp","tests":[{"id":1678341774612,"input":"3\n\n2 2\n10\n\n10 2\n5681\n\n16 1\nABCDEF012345","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\painfulbase.cpp","group":"local","local":true}

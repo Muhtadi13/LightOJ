@@ -1,0 +1,1 @@
+{"name":"Local: easygame","url":"c:\\zzz_code\\cp_code\\LOJ\\easygame.cpp","tests":[{"id":1678328071281,"input":"2\n\n4\n4 -10 -20 7\n\n4\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\easygame.cpp","group":"local","local":true}

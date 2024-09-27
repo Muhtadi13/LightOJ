@@ -1,0 +1,1 @@
+{"name":"Local: scoringsub","url":"c:\\zzz_code\\cp_code\\LOJ\\scoringsub.cpp","tests":[{"id":1678293838961,"input":"3\n3\n1 2 3\n2\n1 1\n5\n5 5 5 5 5\n","output":""},{"id":1678293974033,"input":"1\n5\n1 2 7 8 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\scoringsub.cpp","group":"local","local":true}

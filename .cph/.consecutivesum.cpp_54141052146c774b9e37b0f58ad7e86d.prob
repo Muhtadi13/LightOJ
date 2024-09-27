@@ -1,0 +1,1 @@
+{"name":"Local: consecutivesum","url":"c:\\zzz_code\\cp_code\\LOJ\\consecutivesum.cpp","tests":[{"id":1702031914628,"input":"2\n5\n6 8 2 4 2\n5\n3 8 2 6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\consecutivesum.cpp","group":"local","local":true}

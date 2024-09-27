@@ -1,0 +1,1 @@
+{"name":"Local: justrobbery","url":"c:\\zzz_code\\cp_code\\LOJ\\justrobbery.cpp","tests":[{"id":1678126235392,"input":"3\n0.04 3\n1 0.05\n2 0.05\n3 0.05\n0.06 3\n2 0.03\n2 0.03\n3 0.05\n0.10 3\n1 0.03\n2 0.02\n3 0.05","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\justrobbery.cpp","group":"local","local":true}

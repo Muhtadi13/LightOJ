@@ -1,0 +1,1 @@
+{"name":"Local: summingpow","url":"c:\\zzz_code\\cp_code\\LOJ\\summingpow.cpp","tests":[{"id":1687771101858,"input":"3\n3 1\n4 2\n3 3","output":"Case 1: 6\nCase 2: 30\nCase 3: 36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\summingpow.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: pimpride","url":"c:\\zzz_code\\cp_code\\LOJ\\pimpride.cpp","tests":[{"id":1677813957089,"input":"2\n2\n10 10\n9000 10\n3\n14 23 0\n0 14 0\n1000 9500 14","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\pimpride.cpp","group":"local","local":true}

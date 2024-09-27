@@ -1,0 +1,1 @@
+{"name":"Local: pallindromepart","url":"c:\\zzz_code\\cp_code\\LOJ\\pallindromepart.cpp","tests":[{"id":1678256830814,"input":"3\nAAAA\nABCDEFGH\nQWERTYTREWQWERT","output":""},{"id":1678256951064,"input":"1\nAAAA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\pallindromepart.cpp","group":"local","local":true}

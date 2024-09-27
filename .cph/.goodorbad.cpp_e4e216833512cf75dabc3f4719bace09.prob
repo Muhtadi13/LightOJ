@@ -1,0 +1,1 @@
+{"name":"Local: goodorbad","url":"c:\\zzz_code\\cp_code\\LOJ\\goodorbad.cpp","tests":[{"id":1678254330360,"input":"5\nFFFF?EE\nHELLOWORLD\nABCDEFGHIJKLMNOPQRSTUVWXYZ\nHELLO?ORLD\nAAA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\goodorbad.cpp","group":"local","local":true}

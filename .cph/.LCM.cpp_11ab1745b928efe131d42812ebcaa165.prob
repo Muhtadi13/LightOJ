@@ -1,0 +1,1 @@
+{"name":"Local: LCM","url":"c:\\zzz_code\\cp_code\\LOJ\\LCM.cpp","tests":[{"id":1683393408913,"input":"3\n3 5 30\n209475 6992 77086800\n1 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\LCM.cpp","group":"local","local":true}

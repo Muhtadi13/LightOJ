@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\zzz_code\\cp_code\\LOJ\\F.cpp","tests":[{"id":1676110604238,"input":"2\n0 0\n4 0\n4 4\n0 4\n2 2\n1 1\n0 0\n6 0\n8 4\n2 4\n4 2\n1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\F.cpp","group":"local","local":true}

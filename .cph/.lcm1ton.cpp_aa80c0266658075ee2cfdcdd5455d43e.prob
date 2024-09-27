@@ -1,0 +1,1 @@
+{"name":"Local: lcm1ton","url":"c:\\zzz_code\\cp_code\\LOJ\\lcm1ton.cpp","tests":[{"id":1683444694675,"input":"5\n10\n5\n20000000\n15\n20","output":"Case 1: 2520\nCase 2: 60\nCase 3: 2300527488\nCase 4: 360360\nCase 5: 232792560"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\lcm1ton.cpp","group":"local","local":true}

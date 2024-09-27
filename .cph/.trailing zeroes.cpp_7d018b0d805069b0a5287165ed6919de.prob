@@ -1,0 +1,1 @@
+{"name":"Local: trailing zeroes","url":"c:\\zzz_code\\cp_code\\LOJ\\trailing zeroes.cpp","tests":[{"id":1683171395663,"input":"2\n10 4 1 1\n100 5 40 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\trailing zeroes.cpp","group":"local","local":true}

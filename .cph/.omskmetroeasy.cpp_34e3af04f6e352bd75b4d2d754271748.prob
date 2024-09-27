@@ -1,0 +1,1 @@
+{"name":"Local: omskmetroeasy","url":"c:\\zzz_code\\cp_code\\LOJ\\omskmetroeasy.cpp","tests":[{"id":1687331343563,"input":"1\n10\n+ 1 -1\n+ 1 -1\n+ 3 1\n+ 3 -1\n+ 3 1\n? 1 6 -1\n? 1 6 2\n? 1 2 0\n? 1 5 -2\n? 1 4 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\omskmetroeasy.cpp","group":"local","local":true}

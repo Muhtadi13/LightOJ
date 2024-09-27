@@ -1,0 +1,1 @@
+{"name":"Local: removeletters","url":"c:\\zzz_code\\cp_code\\LOJ\\removeletters.cpp","tests":[{"id":1677809041799,"input":"7\n6\naaabcc\n10\naaaaaaaaaa\n6\nabcdef\n7\nabacaba\n6\ncccfff\n4\nabba\n5\nababa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\removeletters.cpp","group":"local","local":true}

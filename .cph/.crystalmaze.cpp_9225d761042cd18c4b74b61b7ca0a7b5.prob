@@ -1,0 +1,1 @@
+{"name":"Local: crystalmaze","url":"c:\\zzz_code\\cp_code\\LOJ\\crystalmaze.cpp","tests":[{"id":1681558233298,"input":"1\n4 5 2\n..#..\n.C#C.\n##..#\n..C#C\n1 1\n4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\crystalmaze.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: karateclub","url":"c:\\zzz_code\\cp_code\\LOJ\\karateclub.cpp","tests":[{"id":1680087317392,"input":"4\n2\n4 7\n6 2\n2\n6 2\n4 7\n3\n5 10 1\n5 10 1\n4\n10 7 1 4\n15 3 8 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\zzz_code\\cp_code\\LOJ\\karateclub.cpp","group":"local","local":true}
